@@ -1,0 +1,64 @@
+body {
+    background-color: #1f2937;
+}
+
+#header ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    background-color: #1f2937;
+    margin:0;
+    padding:0%;
+    align-items: center;
+}
+
+#hlogo {
+    margin-right: auto;
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+ul li {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+
+
+
+
+#hero {
+    display:flex;
+    margin-top: 0px;
+    background-color: #1f2937;
+    justify-content: space-around;
+    padding: 100px;
+}
+
+#hero_info {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#hero_text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+#info {
+    background-color: white;
+}
+
+.dinfo div {
+    min-width: 100px;
+    min-height: 100px;
+    border: 1px solid blue;
+    border-radius: 10%;
+}
+
+.dinfo {
+    display: flex;
+    justify-content: space-around;
+
+}
