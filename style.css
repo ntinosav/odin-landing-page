@@ -14,7 +14,7 @@ body {
 
 .top-area {
     flex-direction: column;
-    background-image: url("./images/uw-nature.jpg");
+    background-image: url("./images/cover.jpg");
     background-size: 100% 100%;
     background-color: #1f2937;
     color: white;
