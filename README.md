@@ -9,3 +9,24 @@ Changes :
    the entire top area (header + description)
  + Changed the title font to something a bit more artistic.
   (Because in this example the site is for a travelling agency.)  
+
+Picture Credits :
++ Cover Image :
+  Manouchehr Hejazi
+  https://unsplash.com/@patrol
+
++ Nature photo :
+  Christian Bruno
+  https://unsplash.com/@ciciancam
+  
++ Friends Embracing :
+  Dan Impartir
+  https://www.pexels.com/el-gr/@dan-impartir-269100174/
+
++ Meditating Photo :
+  Ian Stauffer
+  https://unsplash.com/@ianstauffer
+
++ Exotic Bird :
+  Toni Seyfert
+  https://www.pexels.com/el-gr/@toni-seyfert-785961629/
